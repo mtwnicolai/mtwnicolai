@@ -8,5 +8,5 @@ Meu nome é Mtheus mas também sou conhecido como Xandy, sou programador e estud
 ### Linguagens & Ferramentas
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,cs,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,mongodb,cs,java,mysql" /><br>
 </div>
