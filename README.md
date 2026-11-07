@@ -1,6 +1,6 @@
 #  Matheus
 
-**`Estudante & Desenvolvedor de Software`**
+**`Estudante & Desenvolvedor de Software.`**
 
 Salve! Meu nome é Matheus mas também sou conhecido como Xandy, sou programador e estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela possibilidade de transformar ideias em experiências digitais simples, funcionais e intuitivas.
 
